@@ -1,0 +1,201 @@
+@media(max-width:1400px){
+    .fix-width {
+        max-width: 100%;
+        width: 100%;
+        padding-left: 20px;
+        padding-right: 20px;
+        box-sizing: border-box;
+    }
+}
+@media(max-width:1200px){
+    .box1 h3 {
+        font-size: 22px;
+    }
+    .box1 p {
+        font-size: 15px;
+         width: 230px;
+    }
+    .service-section .service-box .box1 {
+        width: 22%;
+    }
+    .word-section h3 {
+        padding-bottom: 10px;
+        font-size: 25px;
+    }
+    .word-section p {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+}
+@media(max-width:1100px){
+    .service-section .service-box .box1 {
+        width: 21.5%;
+    }
+    .box1 h3 {
+        font-size: 20px;
+    }
+}
+@media(max-width:1024px){
+    .menu-section ul li a {
+        padding: 10px;
+    }
+    .banner-section {
+        padding: 160px 0;
+    }
+    .banner-section .text-div h5 {
+        padding-bottom: 58px;
+    }
+    .banner-section .text-div a {
+        padding: 10px 25px;
+    }
+    .service-section .service-box .box1 {
+        width: 46%;
+    }
+    .word-section h3 {
+        padding-bottom: 6px;
+        font-size: 24px;
+    }
+    .word-section p {
+        padding-bottom: 4px;
+        font-size: 14px;
+    }
+    .footer-section span {
+        font-size: 28px;
+    }
+}
+@media(max-width:890px){
+    .menu-section ul li a {
+        padding: 0px 8px;
+        font-size: 16px;
+        line-height: 45px;
+    }
+    .service-section .service-box .box1 {
+        width: 45%;
+    }
+    .service-section .text p {
+        font-size: 16px;
+        padding-bottom: 70px;
+    }
+}
+@media(max-width:800px){
+    .header-section .logo a {
+        width: 100%;
+        text-align: center;
+    }
+    .header-section .menu-section {
+        width: 100%;
+    }
+    .menu-section ul {
+        text-align: center;
+        margin-top: 10px;
+        padding-left: 0rem;
+    }
+    .banner-section {
+        padding: 120px 0;
+    }
+    .service-section .text h2 {
+        font-size: 34px;
+        padding-bottom: 23px;
+        margin-top: -30px;
+    }
+    .service-section .text p {
+        font-size: 14px;
+        padding-bottom: 60px;
+    }
+    .image {
+        width: 100%;
+        padding: 28px;
+        margin-top: -20px;
+    }
+    .image img {
+        width: 100%;
+    }
+    .word-section {
+        width: 98%;
+        padding-bottom: 40px;
+    }
+    .contact p {
+        padding-bottom: 63px;
+        font-size: 15px;
+    }
+    .cotact-1 p {
+        font-size: 15px;
+        margin-bottom: 50px;
+    }
+    .footer-section span {
+        font-size: 27px;
+    }
+}
+@media(max-width:760px){
+    .banner-section .text-div h1 {
+        font-size: 48px;
+        padding-bottom: 18px;
+    }
+    .banner-section .text-div h5 {
+        padding-bottom: 45px;
+        font-size: 17px;
+    }
+    .banner-section .text-div a {
+        padding: 7px 15px;
+    }
+}
+@media(max-width:700px){
+    .contact-section .cotact-1 .b1 {
+        width: 100%;
+    }
+}
+@media(max-width:680px){
+    .service-section .service-box .box1 {
+        width: 95%;
+    }
+    .footer-section {
+        padding: 14px;
+    }
+}
+@media(max-width:635px){
+    .banner-section .text-div h1 {
+        font-size: 42px;
+    }
+    .banner-section .text-div h5 {
+        padding-bottom: 45px;
+        font-size: 15px;
+    }
+    .banner-section .text-div a {
+        padding: 5px 12px;
+        font-size: 15px;
+    }
+}
+@media(max-width:560px){
+    .menu-section ul li a {
+        padding: 0px 6px;
+        font-size: 15px;
+    }
+    .footer-section span {
+        font-size: 24px;
+    }
+}
+@media(max-width:490px){
+    .header-section {
+        padding: 10px 0;
+    }
+    ol, ul {
+        padding-left: 0;
+    }
+    .banner-section .text-div h1 {
+        font-size: 38px;
+        margin-bottom: 4px;
+    }
+    .banner-section .text-div h5 {
+        padding-bottom: 38px;
+        font-size: 14px;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+}
+@media(max-width:440px){
+    .menu-section ul li a {
+        padding: 0px 5px;
+        font-size: 12px;
+    }
+}
